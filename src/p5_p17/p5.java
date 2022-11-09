@@ -2,10 +2,10 @@ package p5_p17;
 
 public class p5 {
     public static void main(String[] args){
-        Car car1;
-        car1 = new Car();
+        Carp5 car1;
+        car1 = new Carp5();
     }
 }
-class Car{
+class Carp5{
 
 }
